@@ -18,7 +18,7 @@ Olá, eu sou a Luanna!
 
 
  Meus objetivos
-  Criar sites interativos e visualmente encantadores  
+  Criar sites interativos e visualmente prazerosos 
   Aprimorar meus conhecimentos em JavaScript  
   Compartilhar projetos que mostrem minha evolução  
 
